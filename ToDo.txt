@@ -1,0 +1,26 @@
+- Implementar Time Trial
+
+- Incluir som
+	Som de Galinha ao nascer (sair do ônibus)
+	Sons de buzina para cada veículo
+	Sons de estrada
+	Som do atropelamento
+	Som de falcão quando o espirito da Galinha subir aos céus
+	Som de Padre Galo feliz e triste
+	Som pra coleta dos PowerUps
+
+- Incluir música
+
+- Ao ser atropelada o espirito da galinha não sobe diretamente aos céus, mas fica "andando" a esmo pela estrada (a violência do atropelamento fez a alma ficar perdida na terra). O jogador deve, com a próxima galinha, "pegar" essa alma perdida que só então segue aos céus. (isso poderia dar uma pontuação extra aos jogador)
+
+
+- Implementar PowerUps
+	Fazer o Padre pedir ajuda aos céus antes do PowerUp aparecer
+	Implementar um esquema de PowerUps sendo chamados a medida que o jogador vai tendo dificuldade no jogo ou de tempos em tempos?
+	PowerUps (Brainstorm):
+		Galinha Templária - Uma grande galinha vestida de templário (armadura, escudo e espada). Seria bem lenta, mas o escudo permitiria que ela 		resistisse a alguns atropelamentos (3). Teria algumas galinhas juntas (5) e todas seriam salvas ao chegarem na igreja ou mortas se a 			templária for atropelada.
+
+		Galinha Necromante - Reviveria as galinhas atropeladas dando uma segunda chance de entregá-las na igreja. Seria legal se as galinhas que 		voltassem fossem mortas vivas.
+
+
+- Incluir, em algum lugar, o nome da galinha que esta atravessando a rodovia
